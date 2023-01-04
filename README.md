@@ -1,8 +1,44 @@
 ## 책 읽고 알게 된, 내용을 정리하는 저장소
 
+>지금까지 읽었던 책 목록 <br/>
+
+```
+- Clean Code
+- 좋은 코드, 나쁜 코드
+- 테스트 주도 개발 - 켄트 벡
+- 테스트 주도 개발 시작하기 - 최범균
+- 엘레강트 오브젝트
+- 오브젝트
+- 모던 자바 인 액션
+- 이펙티브 자바
+
+
+- 객체지향 사고 프로세스
+- 객체지향 사실과 오해
+- 혼자 공부하는 컴퓨터구조 + 운영체제
+- 그림으로 배우는 Http Net Work Basic
+- SQL 첫걸음
+```
+
+---
+
+<br/>
+
 ### Dev Book Review
+- [Clean Code]()<br/>
+    - []()<br/>
+- [좋은 코드, 나쁜 코드]()<br/>
+    - []()<br/>
+- [테스트 주도 개발 - (켄트 벡)]()<br/>
+    - []()<br/>
+- [테스트 주도 개발 시작하기 - (최범균)]()<br/>
+    - []()<br/>    
 - [오브젝트]()<br/>
     - []()<br/>
+- [엘레강트 오브젝트]()<br/>
+    - []()<br/>    
+- [모던 자바 인 액션]()<br/>
+    - []()<br/>    
 - [이펙티브 자바](https://github.com/mingseok/ReadingRecord/tree/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94)<br/>
     - [생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/mingseok/ReadingRecord/blob/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94/%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80%C2%A0%EB%A7%8E%EB%8B%A4%EB%A9%B4%20%EB%B9%8C%EB%8D%94%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)<br/>
     - [equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/mingseok/ReadingRecord/blob/main/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94/equals%EB%A5%BC%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0%20hashCode%EB%8F%84%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)<br/>
