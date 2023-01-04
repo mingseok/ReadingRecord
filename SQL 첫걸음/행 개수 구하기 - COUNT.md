@@ -1,6 +1,6 @@
 ## 행 개수 구하기 - COUNT
 
-![이미지](/programming/img/디비2.JPG)
+![이미지](/img/디비2.JPG)
 
 <br/>
 
