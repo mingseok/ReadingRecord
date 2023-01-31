@@ -51,6 +51,11 @@
     - [스트림 연산](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%97%B0%EC%82%B0.md)<br/>
     - [스트림 활용](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%99%9C%EC%9A%A9.md)<br/>
     - [매핑](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EB%A7%A4%ED%95%91.md)<br/>
+    - [검색과 매칭](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EA%B2%80%EC%83%89%EA%B3%BC%20%EB%A7%A4%EC%B9%AD.md)<br/>
+    - [리듀싱](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EB%A6%AC%EB%93%80%EC%8B%B1.md)<br/>
+    - [스트림 실전 연습](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%8B%A4%EC%A0%84%20%EC%97%B0%EC%8A%B5.md)<br/>
+    - [숫자형 스트림]()<br/>
+    - []()<br/>
     - []()<br/>
     - []()<br/>
     - []()<br/>
