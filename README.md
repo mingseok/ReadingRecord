@@ -48,6 +48,9 @@
     - [람다, 메서드 참조 활용하기](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EB%9E%8C%EB%8B%A4,%20%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%B0%B8%EC%A1%B0%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md)<br/>
     - [스트림 소개](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%86%8C%EA%B0%9C.md)<br/>
     - [스트림과 컬렉션](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EC%8A%A4%ED%8A%B8%EB%A6%BC%EA%B3%BC%20%EC%BB%AC%EB%A0%89%EC%85%98.md)<br/>
+    - [스트림 연산](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EC%97%B0%EC%82%B0.md)<br/>
+    - [스트림 활용](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%99%9C%EC%9A%A9.md)<br/>
+    - [매핑](https://github.com/mingseok/ReadingRecord/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%20%EC%9D%B8%20%EC%95%A1%EC%85%98/%EB%A7%A4%ED%95%91.md)<br/>
     - []()<br/>
     - []()<br/>
     - []()<br/>
