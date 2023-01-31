@@ -37,9 +37,9 @@ List<String> friends = Arrays.asList("Raphael", "Olivia", "Thibaut");
 
 ```java
 for(Map.Entry<String, Integer> entry : ageOfFriends.entrySet()) {
-		String friend = entry.getKey();
-		Integer age = entry.getValue();
-		System.out.println(friend + " is " + age + " years old");
+	String friend = entry.getKey();
+	Integer age = entry.getValue();
+	System.out.println(friend + " is " + age + " years old");
 }
 ```
 
@@ -64,25 +64,24 @@ ageOfFriends.forEach((friend, age) -> System.out.println(friend + " is " + age +
 
 <br/>
 
-바꾸기 전 코드.
+### 수정 전 코드.
 
 ```java
 Map<String, String> favouriteMovies = 
-											Map.ofEntries(entry("Raphael", "Star Wars"),
-											entry("Cristina", "Matrix"),
-											entry("Olivia", "James Bond"));
+			Map.ofEntries(entry("Raphael", "Star Wars"),
+			entry("Cristina", "Matrix"),
+			entry("Olivia", "James Bond"));
 ```
 
 <br/>
 
-변경된 코드
+### 변경 된 코드
 
 ```java
-favouriteMovies
-			.entrySet()
-			.stream()
-			.sorted(Entry.comparingByKey())
-			.forEachOrdered(System.out::println);
+favouriteMovies.entrySet()
+	       .stream()
+	       .sorted(Entry.comparingByKey())
+	       .forEachOrdered(System.out::println);
 ```
 
 <br/>
