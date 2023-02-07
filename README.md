@@ -3,23 +3,28 @@
 >✔️지금까지 읽었던 책 목록 <br/>
 
 ```
-- Clean Code
-- 좋은 코드, 나쁜 코드
-- 테스트 주도 개발 - (켄트 벡)
-- 테스트 주도 개발 시작하기 - (최범균)
-- 엘레강트 오브젝트
 - 오브젝트
-- 이펙티브 자바
-- SQL 레벨업
-- 프로그래머의 뇌
-
-
 - 모던 자바 인 액션
 - 객체지향 사고 프로세스
 - 객체지향 사실과 오해
 - 혼자 공부하는 컴퓨터구조 + 운영체제
 - 그림으로 배우는 Http Net Work Basic
 - SQL 첫걸음
+```
+
+<br/>
+
+>✔️읽고 싶은 책 목록 <br/>
+
+```
+- Clean Code
+- 좋은 코드, 나쁜 코드
+- 테스트 주도 개발 - (켄트 벡)
+- 테스트 주도 개발 시작하기 - (최범균)
+- 엘레강트 오브젝트
+- 이펙티브 자바
+- SQL 레벨업
+- 프로그래머의 뇌
 ```
 
 ---
@@ -50,13 +55,9 @@
 - [메시지와 인터페이스](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)<br/>
 - [설계 품질과 트레이드 오프](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%84%A4%EA%B3%84%20%ED%92%88%EC%A7%88%EA%B3%BC%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%20%EC%98%A4%ED%94%84.md)<br/>
 - [응집도와 결합도](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%9D%91%EC%A7%91%EB%8F%84%EC%99%80%20%EA%B2%B0%ED%95%A9%EB%8F%84.md)<br/>
-- [캡슐화를 지켜라]()<br/>
-- []()<br/>
-- []()<br/>
-- []()<br/>
-- []()<br/>
-- []()<br/>
-- []()<br/>         
+- [캡슐화를 지켜라](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%BA%A1%EC%8A%90%ED%99%94%EB%A5%BC%20%EC%A7%80%EC%BC%9C%EB%9D%BC.md)<br/>
+- [책임 할당하기](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%B1%85%EC%9E%84%20%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0.md)<br/>
+- [책임 할당을 위한 GRASP 패턴](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%B1%85%EC%9E%84%20%ED%95%A0%EB%8B%B9%EC%9D%84%20%EC%9C%84%ED%95%9C%20GRASP%20%ED%8C%A8%ED%84%B4.md)<br/>
 
 
 ### 모던 자바 인 액션
