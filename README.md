@@ -46,6 +46,7 @@
 
 ### 오브젝트
 
+- [객체지향 - 조영호님 [우아한테크세미나]](https://www.youtube.com/watch?v=dJ5C4qRqAgA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)<br/>
 - [객체, 설계](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/1%EC%9E%A5%20-%20%EA%B0%9D%EC%B2%B4%2C%20%EC%84%A4%EA%B3%84.md)<br/>      
 - [객체지향 프로그래밍](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/2%EC%9E%A5%20-%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)<br/>
 - [협력](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%ED%98%91%EB%A0%A5.md)<br/> 
