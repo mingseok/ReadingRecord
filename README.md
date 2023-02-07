@@ -46,8 +46,8 @@
 - [협력](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/3-1%EC%9E%A5%20-%20%ED%98%91%EB%A0%A5.md)<br/> 
 - [책임](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%B1%85%EC%9E%84.md)<br/>
 - [책임 주도 설계](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%B1%85%EC%9E%84%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84.md)<br/>
-- [역할]()<br/>
-- []()<br/>
+- [역할](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%97%AD%ED%95%A0.md)<br/>
+- [메시지와 인터페이스](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)<br/>
 - []()<br/>
 - []()<br/>
 - []()<br/>
