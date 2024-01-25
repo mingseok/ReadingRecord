@@ -70,7 +70,7 @@
 - [객체지향 프로그래밍](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/2%EC%9E%A5%20-%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)<br/>
 - [협력](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%ED%98%91%EB%A0%A5.md)<br/> 
 - [책임](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%B1%85%EC%9E%84.md)<br/>
-- [책임 주도 설계](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%B1%85%EC%9E%84%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84.md)<br/>
+    - [책임 주도 설계](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%B1%85%EC%9E%84%20%EC%A3%BC%EB%8F%84%20%EC%84%A4%EA%B3%84.md)<br/>
 - [역할](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%97%AD%ED%95%A0.md)<br/>
 - [메시지와 인터페이스](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)<br/>
 - [설계 품질과 트레이드 오프](https://github.com/mingseok/ReadingRecord/blob/main/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/%EC%84%A4%EA%B3%84%20%ED%92%88%EC%A7%88%EA%B3%BC%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%20%EC%98%A4%ED%94%84.md)<br/>
